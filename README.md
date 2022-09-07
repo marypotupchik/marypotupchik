@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marypotupchik
+- 👋 Hi, I’m @potupchikmaria
 - 👀 I’m interested in Product management in edtech, fintech, hrtech.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on new projects.
